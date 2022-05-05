@@ -1,1 +1,1 @@
-# Aufgschlagen! Entdecke Bücherschätze im Rokokosaal
+# Aufgeschlagen! Entdecke Bücherschätze im Rokokosaal
