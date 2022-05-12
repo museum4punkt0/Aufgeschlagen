@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-German (de)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-German (de)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e5c92a66f16426f4aa4fdd92f8329b76
+  m_SerializeEntries:
+  - m_GUID: fc50275ae8d9409428061685cd29f170
+    m_Address: ANNAAMALIA_BOOKS_de
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-de
+  - m_GUID: eec8a45fdf93b7445a06e7f83e72c659
+    m_Address: ANNAAMALIA_VIEWER_TUTORIAL_de
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-de
+  - m_GUID: 53ec97f605608ed45b26969327ac5f43
+    m_Address: ANNAAMALIA_BOOKS_UITEXTS_de
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-de
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 1c4f386ebadb8834da22974bab3b317e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7e0361a55dba8e144a2f63b732a392f4, type: 2}
+    - {fileID: 11400000, guid: 097824c7d32baf247a458679844b7693, type: 2}

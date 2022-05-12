@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Flying_Books_ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5382433090600616194
+  m_GuidHigh: 17430896308825735840
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4991506107151099694
+      m_GuidHigh: 11626239379304246923
+    m_SerializedTextureGuid:
+      m_GuidLow: 17421122610338005106
+      m_GuidHigh: 2128362361635540923
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: dd81e3f0-1dbf-4a64-8e1f-c375be9454bc
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5670808682157198041
+      m_GuidHigh: 229413549700297879
+    m_SerializedTextureGuid:
+      m_GuidLow: 3072778216751226038
+      m_GuidHigh: 7174488293414333483
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: 16cb500e-44a8-4e08-b7ab-93522ab96ea3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5040048330967649441
+      m_GuidHigh: 12270938341764353971
+    m_SerializedTextureGuid:
+      m_GuidLow: 9193203879505097561
+      m_GuidHigh: 17428556021015494793
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: 0215bad6-d03f-40b0-ad78-cb8b90724c6b
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5156650065139623562
+      m_GuidHigh: 5362186137664322210
+    m_SerializedTextureGuid:
+      m_GuidLow: 1388292559126226894
+      m_GuidHigh: 594955383884173897
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: 70021c8e-de16-4b13-b308-73079da6a833
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5617519864983973656
+      m_GuidHigh: 688703274769018026
+    m_SerializedTextureGuid:
+      m_GuidLow: 4216521551619722651
+      m_GuidHigh: 17220552696324294394
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: a2eade09-adca-4fd8-83ce-421122b7b9eb
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5249903732140058013
+      m_GuidHigh: 5085191857170463119
+    m_SerializedTextureGuid:
+      m_GuidLow: 16020447937210474730
+      m_GuidHigh: 13399971471974462074
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: 6fec453d-d504-408e-9e23-068480f02446
+    m_Texture: {fileID: 0}

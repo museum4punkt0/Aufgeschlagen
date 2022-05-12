@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Boot.unity
+    guid: 9973bf5ac91fee3468b756545fd35470
+  - enabled: 1
+    path: Assets/#ANNA_AMALIA/Books/Scenes/AnnaAmalia_Books_Boot.unity
+    guid: 82214f501e23a8349873c0ae9cda7404
+  - enabled: 1
+    path: Assets/#ANNA_AMALIA/Books/Scenes/ARViewer_Boot.unity
+    guid: 6d121e625d6695849bb9a2e59af9acd0
+  - enabled: 1
+    path: Assets/#ANNA_AMALIA/Books/Scenes/3DViewer_Boot.unity
+    guid: 3c37e7137cb550744bcc410bcf96cd33
+  - enabled: 1
+    path: Assets/#ANNA_AMALIA/Books/Scenes/AnnaAmalia_Books_DeStatuReligionis.unity
+    guid: 700d3e35531e5d54695dad37627ef901
+  - enabled: 1
+    path: Assets/#ANNA_AMALIA/Books/Scenes/AnnaAmalia_Books_HistoireDeJulesCesar.unity
+    guid: d36c2622553fab345bd6651c9e377f30
+  - enabled: 1
+    path: Assets/#ANNA_AMALIA/Books/Scenes/AnnaAmalia_Books_JosephusOpera.unity
+    guid: f9c7c272500d9e949b1f4f29e3ba81a4
+  - enabled: 1
+    path: Assets/#ANNA_AMALIA/Books/Scenes/AnnaAmalia_Books_SauerBible.unity
+    guid: c36c52f0b41ce494bac0554e632e2989
+  - enabled: 1
+    path: Assets/#ANNA_AMALIA/Books/Scenes/AnnaAmalia_Books_Synodus.unity
+    guid: c38f5f6edca49564f93fd7cea829842f
+  - enabled: 1
+    path: Assets/#ANNA_AMALIA/Books/Scenes/AnnaAmalia_Books_Tabularium.unity
+    guid: 1fb72e899a68aa54fa827ed2259b75a4
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 13da59d72f9657943b3a00d99406542b, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 2381666f8b2e0974ea22c3cdc4a2eb49, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: 1174ef0b72a78a04ba7e2111c3e12af7, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 17e7f3c8d59c55c43bd13de4f435fadf, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 009482a590e9dc54ba057bbc42e94e73, type: 2}

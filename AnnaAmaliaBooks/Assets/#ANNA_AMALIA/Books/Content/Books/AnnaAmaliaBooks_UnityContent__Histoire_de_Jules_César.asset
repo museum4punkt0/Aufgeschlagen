@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43d68b37e8d36944fb28389fad0c2aab, type: 3}
+  m_Name: "AnnaAmaliaBooks_UnityContent__Histoire_de_Jules_C\xE9sar"
+  m_EditorClassIdentifier: 
+  editGeneralSettings: 0
+  contentSUUID: 16cb500e-44a8-4e08-b7ab-93522ab96ea3
+  contentUsageSUUID: 30bcbe58-a788-42a2-873b-f489814fbb5c
+  canInvokeUnityCommandTarget: 0
+  enableLocalization: 0
+  title: Insert title here
+  titleReference:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  subtitle: Insert subtitle here
+  subtitleReference:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  description: Insert description here
+  descriptionReference:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  sprite: {fileID: 21300000, guid: 0303dcb6b3822aa42bec283e17e79063, type: 3}
+  spriteReference:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  parentContent: {fileID: 0}
+  childContent: []
+  references:
+    version: 1

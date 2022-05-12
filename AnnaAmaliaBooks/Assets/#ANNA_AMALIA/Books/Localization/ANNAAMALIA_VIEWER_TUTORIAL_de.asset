@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ANNAAMALIA_VIEWER_TUTORIAL_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 3e716d7d0446bf6429d7d36278d80e63, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1357897728
+    m_Localized: "Zum Drehen Finger gedr\xFCckt halten und ziehen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2666520576
+    m_Localized: "Zum Verschieben zwei Finger gedr\xFCckt halten und ziehen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3798982656
+    m_Localized: Zum Zoomen Daumen und Zeigefinger auseinanderziehen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4872724480
+    m_Localized: "Zum \xD6ffnen des Buches doppelt tippen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5967437824
+    m_Localized: "Zum Umbl\xE4ttern Finger gedr\xFCckt halten und ziehen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7049568256
+    m_Localized: "Zum Schlie\xDFen des Buches doppelt tippen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8182030336
+    m_Localized: "F\xFCr weitere Informationen auf das Buch klicken"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

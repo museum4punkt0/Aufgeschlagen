@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0aa8c8c5c559eca4286be9cae6319c8d
+  m_SerializeEntries:
+  - m_GUID: 93a63e81d8ceabc4aaf920c696ce05a9
+    m_Address: Assets/#ANNA_AMALIA/Books/Localization/ANNAAMALIA_BOOKS_UITEXTS Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: cd66862d99d00794ba23152c26c7ac3e
+    m_Address: Assets/#ANNA_AMALIA/Books/Localization/ANNAAMALIA_BOOKS Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 3e716d7d0446bf6429d7d36278d80e63
+    m_Address: Assets/#ANNA_AMALIA/Books/Localization/ANNAAMALIA_VIEWER_TUTORIAL
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 1c4f386ebadb8834da22974bab3b317e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 247fc85887482164c8fc2b342ac27649, type: 2}
+    - {fileID: 11400000, guid: fd71a6c762aadb14f9bc27de0f48cede, type: 2}
