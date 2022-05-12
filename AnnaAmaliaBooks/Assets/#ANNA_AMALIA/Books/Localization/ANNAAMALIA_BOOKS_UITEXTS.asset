@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: ANNAAMALIA_BOOKS_UITEXTS
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 93a63e81d8ceabc4aaf920c696ce05a9, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: e7f7fe86c87dfe541bab6d1c6be3f75f, type: 2}
+  - {fileID: 11400000, guid: 53ec97f605608ed45b26969327ac5f43, type: 2}
+  m_Extensions:
+  - id: 0
+  m_Group: String Table
+  references:
+    version: 1
+    00000000:
+      type: {class: CsvExtension, ns: UnityEditor.Localization.Plugins.CSV, asm: Unity.Localization.Editor}
+      data:
+        m_Collection: {fileID: 11400000}
+        m_ColumnsList:
+        - id: 1
+        - id: 2
+        - id: 3
+        m_ConnectedFile: C:/Users/lukas/Downloads/klassik-stiftung-weimar-bundle(2).csv
+    00000001:
+      type: {class: KeyIdColumns, ns: UnityEditor.Localization.Plugins.CSV.Columns,
+        asm: Unity.Localization.Editor}
+      data:
+        m_IncludeId: 0
+        m_IncludeSharedComments: 0
+        m_KeyFieldName: Asset ID
+        m_IdFieldName: 
+        m_CommentFieldName: 
+    00000002:
+      type: {class: LocaleColumns, ns: UnityEditor.Localization.Plugins.CSV.Columns,
+        asm: Unity.Localization.Editor}
+      data:
+        m_LocaleIdentifier:
+          m_Code: en
+        m_FieldName: English, en
+        m_CommentFieldName: English, en Comments
+        m_IncludeComments: 0
+    00000003:
+      type: {class: LocaleColumns, ns: UnityEditor.Localization.Plugins.CSV.Columns,
+        asm: Unity.Localization.Editor}
+      data:
+        m_LocaleIdentifier:
+          m_Code: de
+        m_FieldName: German, de
+        m_CommentFieldName: German, de Comments
+        m_IncludeComments: 0

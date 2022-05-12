@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43d68b37e8d36944fb28389fad0c2aab, type: 3}
+  m_Name: AnnaAmaliaBooks_UnityContent__Viewer_Tutorial_Double_Touch_to_Open_Book
+  m_EditorClassIdentifier: 
+  editGeneralSettings: 0
+  contentSUUID: bbbec13a-7fbb-4779-b23d-ea2f39b514ae
+  contentUsageSUUID: 9c37caa1-11e1-4f19-b651-6d3133fe8006
+  canInvokeUnityCommandTarget: 0
+  enableLocalization: 1
+  title: Insert title here
+  titleReference:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  subtitle: Insert subtitle here
+  subtitleReference:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  description: Insert description here
+  descriptionReference:
+    m_TableReference:
+      m_TableCollectionName: ANNAAMALIA_VIEWER_TUTORIAL
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: UNITY_ANNAAMALIABOOKS_BBBEC13A-7FBB-4779-B23D-EA2F39B514AE_DESCRIPTION
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  sprite: {fileID: 3286163911610860551, guid: c5b53a70ede44a94c8807376493063ed, type: 3}
+  spriteReference:
+    m_AssetGUID: 
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  parentContent: {fileID: 0}
+  childContent: []
+  references:
+    version: 1

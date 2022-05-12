@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ANNAAMALIA_BOOKS Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: ANNAAMALIA_BOOKS
+  m_TableCollectionNameGuidString: cd66862d99d00794ba23152c26c7ac3e
+  m_Entries:
+  - m_Id: 1325117440
+    m_Key: UNITY_ANNAAMALIABOOKS_0215BAD6-D03F-40B0-AD78-CB8B90724C6B_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2583408640
+    m_Key: UNITY_ANNAAMALIABOOKS_16CB500E-44A8-4E08-B7AB-93522AB96EA3_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3711676416
+    m_Key: UNITY_ANNAAMALIABOOKS_DD81E3F0-1DBF-4A64-8E1F-C375BE9454BC_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4818972672
+    m_Key: UNITY_ANNAAMALIABOOKS_A2EADE09-ADCA-4FD8-83CE-421122B7B9EB_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5896908800
+    m_Key: UNITY_ANNAAMALIABOOKS_70021C8E-DE16-4B13-B308-73079DA6A833_TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6991622144
+    m_Key: UNITY_ANNAAMALIABOOKS_6FEC453D-D504-408E-9E23-068480F02446_TITLE
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1641377328739
