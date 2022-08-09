@@ -18,13 +18,32 @@ Das Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregier
 ![NeustartKultur](https://github.com/museum4punkt0/media_storage/blob/a35eedb36e5b502e90cd76d669a6b337002b230a/BKM_Neustart_Kultur_Wortmarke_pos_RGB_RZ_web.jpg)
 
 ### Dokumentation
-...
+Das Projekt 'Aufgeschlagen! Entdecke Bücherschätzeim Rokokosaal' ist für Mobilgeräte (iOS/Android) konzipiert und mit der Realtime Engine Unity umgesetzt. Unity bietet die notwendigen Werkzeuge für eine interaktive AR/3D-Anwendung und hat gegenüber einer nativen Implementierung den Vorteil, dass mittels einer gemeinsamen Codebasis (C#) für beide Plattformen gleichzeitig entwickelt werden kann. 
+
+Das Projekt in seiner hier vorliegenden Version umfasst folgenden Funktionen:
+
+#### Auswahl
+- Auswahl der einzelnen Bücher über Listenmenü
+
+#### AR-Modus
+- AR-Marker einscannen, um Bücher zu aktivieren
+- Bücher können frei rotiert werden
+- Bücher kehren ins Sichtfeld zurück, sobald sie nicht mehr zu sehen sind
+- Wechsel in den 3D-Modus über 'Mehr erfahren'
+
+#### 3D-Modus
+- Interaktives Tutorial in mehreren Schritten
+- Bücher können rotiert (Drag mit einem Finger), bewegt (Drag mit zwei Fingern) und skaliert (Pinch mit zwei Fingern) werden
+- Bücher können aufgeschlagen und wieder geschlossen werden (Doppelklick)
+- Bücherseiten können vor- und zurückgeblättert werden (Drag mit einem Finger)
+
+Im Original ist dieses Projekt in der Weimar+ App der Klassik Stiftung Weimar ([App Store](https://apps.apple.com/de/app/weimar/id1457546709?l=en) / [Play Store](https://play.google.com/store/apps/details?id=de.klassikStiftung.medienguide&hl=gsw&gl=US)) als Teil der Herzogin Anna Amalia Bibliothek eingebunden. Einige Funktionen, wie beispielsweise die Einbettung der Bücher in eine umfangreiche Audiotour oder weiterführende Informationen und Audiobeiträge zu den einzelnen Büchern sind ausschließlich in der Weimar+ App verfügbar.
 
 ### Installation
-Um das Projekt zu öffnen, wird eine Installation des Unity Editors vorausgesetzt. Diese kann von der offiziellen [Unity Website](https://unity.com/de) bezogen werden. Grundsätzlich sollte das Projekt mit jeder aktuellen Version kompatibel sein, empfohlen ist jedoch die Version 2020.3.21f, die im [Unity Download Archive](https://unity3d.com/de/get-unity/download/archive) zu finden ist. Nach dem Öffnen kann das Projekt wahlweise für iOS oder Android exportiert und auf ein entsprechendes Mobilgerät gespielt werden. Dabei ist zu beachten, dass beim Export in den Build Settings alle Szenen aus dem Ordner `#ANNA_AMALIA/Books/Scenes` aktiviert sind und die Szene `AnnaAmalia_Books_Boot` die erste in der Reihenfolge ist.  
+Um das Projekt zu öffnen, ist eine Installation des Unity Editors vorausgesetzt. Diese kann von der offiziellen [Unity Website](https://unity.com/de) bezogen werden. Grundsätzlich sollte das Projekt mit jeder aktuellen Version kompatibel sein, empfohlen ist jedoch die Version 2020.3.21f, die im [Unity Download Archive](https://unity3d.com/de/get-unity/download/archive) zu finden ist. Das Projekt (abgesehen von seinen AR-Funktionen) kann bereits im Unity Editor getestet werden: Hierzu einfach die Szene `AnnaAmalia_Books_Boot` im Ordner `#ANNA_AMALIA/Books/Scenes` öffnen und in den `Playmodus` wechseln. Um das Projekt in seiner vollen Funktionalität testen zu können, muss das Projekt wahlweise für iOS oder Android exportiert und auf ein entsprechendes Endgerät gespielt werden. Dabei ist zu beachten, dass beim Export in den Build Settings alle Szenen aus dem Ordner `#ANNA_AMALIA/Books/Scenes` aktiviert sind und die Szene `AnnaAmalia_Books_Boot` die erste in der Reihenfolge ist (Build-Index 0). Die AR-Marker zur Anwendung sind im Ordner `#ANNA_AMALIA/Books/Scenes/XR/` zu finden.
 
 ### Credits
 Der Code zur AR-/3D-Anwendung ist unter der GNU-GPL Lizenz veröffentlicht. 
 
 ### Lizenz
-Aufgeschlagen! Entdecke Bücherschätze im Rokokosaal © 2022 Klassik Stiftung Weimar; entwickelt von MicroMovie Media GmbH.
+Aufgeschlagen! Entdecke Bücherschätze im Rokokosaal © 2022 Klassik Stiftung Weimar; entwickelt [Guidepilot](https://www.guidepilot.de/) (a MicroMovie Media GmbH Solution)
