@@ -47,7 +47,8 @@ Um das Projekt zu öffnen, ist eine Installation des Unity Editors vorausgesetzt
 - Konzeption und Umsetzung: [Guidepilot](https://www.guidepilot.de/) (a MicroMovie Media GmbH Solution)
 
 ### Lizenz
-Aufgeschlagen! Entdecke Bücherschätze im Rokokosaal Copyright © 2022 Klassik Stiftung Weimar / [Guidepilot](https://www.guidepilot.de/) (a MicroMovie Media GmbH Solution) </br>
+Aufgeschlagen! Entdecke Bücherschätze im Rokokosaal Copyright © 2022 Klassik Stiftung Weimar / [Guidepilot](https://www.guidepilot.de/) (a MicroMovie Media GmbH Solution)
+
 Das Programm ist Freie Software: Sie können es unter den Bedingungen der GNU General Public License, wie von der Free Software Foundation, Version 3 der Lizenz jeder neueren veröffentlichten Version, weiterverbreiten und/oder modifizieren. </br>
 Dieses Programm wird in der Hoffnung bereitgestellt, dass es nützlich sein wird, jedoch OHNE JEDE GEWÄHR,; sogar ohne die implizite Gewähr der MARKTFÄHIGKEIT oder EIGNUNG FÜR EINEN BESTIMMTEN ZWECK. Siehe die [GNU General Public License](https://github.com/museum4punkt0/Aufgeschlagen/blob/7f74f908f2b2a873f6ee903144c8c2d7aae3b141/LICENSE) für weitere Einzelheiten.
 
