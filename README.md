@@ -43,14 +43,13 @@ Im Original ist dieses Projekt in der Weimar+ App der Klassik Stiftung Weimar ([
 Um das Projekt zu öffnen, ist eine Installation des Unity Editors vorausgesetzt. Diese kann von der offiziellen [Unity Website](https://unity.com/de) bezogen werden. Grundsätzlich sollte das Projekt mit jeder aktuellen Version kompatibel sein, empfohlen ist jedoch die Version 2020.3.21f, die im [Unity Download Archive](https://unity3d.com/de/get-unity/download/archive) zu finden ist. Das Projekt (abgesehen von seinen AR-Funktionen) kann bereits im Unity Editor getestet werden: Hierzu einfach die Szene `AnnaAmalia_Books_Boot` im Ordner `#ANNA_AMALIA/Books/Scenes` öffnen und in den `Playmodus` wechseln. Um das Projekt in seiner vollen Funktionalität testen zu können, muss das Projekt wahlweise für iOS oder Android exportiert und auf ein entsprechendes Endgerät gespielt werden. Dabei ist zu beachten, dass beim Export in den Build Settings alle Szenen aus dem Ordner `#ANNA_AMALIA/Books/Scenes` aktiviert sind und die Szene `AnnaAmalia_Books_Boot` die erste in der Reihenfolge ist (Build-Index 0). Die AR-Marker zur Anwendung sind im Ordner `#ANNA_AMALIA/Books/Scenes/XR/` zu finden.
 
 ### Credits
-- Auftraggeber und Idee: Klassik Stiftung Weimar
+- Auftraggeber und Idee: [Klassik Stiftung Weimar](https://www.klassik-stiftung.de/)
 - Konzeption und Umsetzung: [Guidepilot](https://www.guidepilot.de/) (a MicroMovie Media GmbH Solution)
 
 ### Lizenz
-Aufgeschlagen! Entdecke Bücherschätze im Rokokosaal Copyright © 2022 Klassik Stiftung Weimar / [Guidepilot](https://www.guidepilot.de/) (a MicroMovie Media GmbH Solution)
+Aufgeschlagen! Entdecke Bücherschätze im Rokokosaal Copyright © 2022 [Klassik Stiftung Weimar](https://www.klassik-stiftung.de/) / [Guidepilot](https://www.guidepilot.de/) (a MicroMovie Media GmbH Solution)
 
-Das Programm ist Freie Software: Sie können es unter den Bedingungen der GNU General Public License, wie von der Free Software Foundation, Version 3 der Lizenz jeder neueren veröffentlichten Version, weiterverbreiten und/oder modifizieren. </br>
-Dieses Programm wird in der Hoffnung bereitgestellt, dass es nützlich sein wird, jedoch OHNE JEDE GEWÄHR,; sogar ohne die implizite Gewähr der MARKTFÄHIGKEIT oder EIGNUNG FÜR EINEN BESTIMMTEN ZWECK. Siehe die [GNU General Public License](https://github.com/museum4punkt0/Aufgeschlagen/blob/7f74f908f2b2a873f6ee903144c8c2d7aae3b141/LICENSE) für weitere Einzelheiten.
+Das Programm ist Freie Software: Sie können es unter den Bedingungen der GNU General Public License, wie von der Free Software Foundation, Version 3 der Lizenz jeder neueren veröffentlichten Version, weiterverbreiten und/oder modifizieren. Dieses Programm wird in der Hoffnung bereitgestellt, dass es nützlich sein wird, jedoch OHNE JEDE GEWÄHR,; sogar ohne die implizite Gewähr der MARKTFÄHIGKEIT oder EIGNUNG FÜR EINEN BESTIMMTEN ZWECK. Siehe die [GNU General Public License](https://github.com/museum4punkt0/Aufgeschlagen/blob/7f74f908f2b2a873f6ee903144c8c2d7aae3b141/LICENSE) für weitere Einzelheiten.
 
 Sie sollten eine Kopie der GNU General Public License zusammen mit diesem Programm erhalten haben. Wenn nicht, siehe <https://www.gnu.org/licenses/>.
 
