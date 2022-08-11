@@ -30,6 +30,11 @@ public class LocaleDropdown : MonoBehaviour
         dropdown.onValueChanged.AddListener(LocaleSelected);
     }
 
+    private void OnDestroy()
+    {
+        dropdown.onValueChanged.RemoveListener(LocaleSelected);
+    }
+
     static void LocaleSelected(int index)
     {
         LocalizationSettings.SelectedLocale = LocalizationSettings.AvailableLocales.Locales[index];

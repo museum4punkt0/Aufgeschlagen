@@ -106,9 +106,9 @@ Material:
     - _Metallic: 0
     - _MetallicStrength: 0
     - _OcclusionStrength: 1
-    - _Open: 1
+    - _Open: 0
     - _Pages: 4
-    - _Progress: 1
+    - _Progress: 0
     - _ProgressThreshold: 0.0473
     - _QueueOffset: 0
     - _ReceiveShadows: 1

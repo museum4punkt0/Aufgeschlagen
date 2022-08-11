@@ -6,9 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Boot.unity
-    guid: 9973bf5ac91fee3468b756545fd35470
-  - enabled: 1
     path: Assets/#ANNA_AMALIA/Books/Scenes/AnnaAmalia_Books_Boot.unity
     guid: 82214f501e23a8349873c0ae9cda7404
   - enabled: 1
