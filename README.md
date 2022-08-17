@@ -2,7 +2,7 @@
 
 ## Inhaltsverzeichnis 
 * [Kurzbeschreibung](#Kurzbeschreibung) 
-* [Entstehungskontext und Förderhinweis](#Entstehungskontext und Förderhinweis) 
+* [Förderhinweis](#Förderhinweis) 
 * [Dokumentation](#Dokumentation) 
 * [Installation](#Installation)
 * [Credits](#Credits) 
@@ -12,7 +12,7 @@
 ### Kurzbeschreibung
 Digitale Räume können den analogen Raum während des Museumsbesuchs erweitern. So finden BesucherInnen beispielsweise einen interaktiven Zugang zu Objekten, die aus konservatorischen Gründen nicht zugänglich und einsehbar sind. Wie lassen sich solche historischen Bestände im analogen Raum digital vermitteln? Exemplarisch hat die Klassik Stiftung Weimar (KSW) dies für den historischen Rokokosaal in der Herzogin Anna Amalia Bibliothek erprobt: Dazu wurde die App Weimar+ um eine AR/3D-Anwendung erweitert, die den historischen Bibliotheksbestand einsehbar macht. Mit Smartphone oder Tablet können BesucherInnen ausgewählte historische Bücher digital in einer Augmented Reality aus den Regalen nehmen. Die 3D-Anwendung ermöglicht, den historischen Einband von allen Seiten in Augenschein zu nehmen. Ein Blättermodul erlaubt den Blick ins Buch. Die Besonderheiten des Exemplars werden in kurzen Audios vermittelt.
 
-### Entstehungskontext und Förderhinweis
+### Förderhinweis
 Diese AR-App ist entstanden im Verbundprojekt museum4punkt0 – Digitale Strategien für das Museum der Zukunft, Teilprojekt Labor digital: Vermittlungsformate in und außerhalb der Museen. 
 Das Projekt museum4punkt0 wird gefördert durch die Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages. </br>
 ![BKM-Logo](https://github.com/museum4punkt0/images/blob/2c46af6cb625a2560f39b01ecb8c4c360733811c/BKM_Fz_2017_Web_de.gif)
